@@ -1,0 +1,44 @@
+_repo: Military-Instructors-Manual_14625
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Schoonmaker, Oliver
+    gutenberg_agent_id: '5609'
+    url: http://www.gutenberg.org/2009/agents/5609
+  - agent_name: Cole, J. P. (James Perry)
+    alias: Cole, James Perry
+    birthdate: 1889
+    gutenberg_agent_id: '5608'
+    url: http://www.gutenberg.org/2009/agents/5608
+description: ''
+gutenberg_bookshelf: World War I
+gutenberg_issued: '2005-01-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14625'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States. Army -- Military life'
+- !lcsh 'Military art and science'
+- !lcsh 'United States. Army -- Officers'' handbooks'
+- !lcc 'U'
+tableOfContents: "Chapter 1.  \tSchedules\r\n\r\nChapter 2. \tInfantry Drill Regulations\r\
+  \n\r\nChapter 3. \tPhysical Training\r\nVoice Culture\r\n\r\nChapter 4. \tUse of\
+  \ Modern Arms\r\n  \t1. S.A.F.M.\r\n  \t2. Range Practice.\r\n  \t3. Pistol.\r\n\
+  \  \t4. Bayonet.\r\n  \t5. Machine Guns.\r\n  \t6. Grenade Instruction.\r\n\r\n\
+  Chapter 5. \tMap Sketching\r\n\r\nChapter 6. \tArticles Of War. (Courts-Martial.)\r\
+  \n\r\nChapter 7. \tArmy Regulations\r\n\r\nChapter 8. \tPractice Marches\r\nField\
+  \ Work\r\n\r\nChapter 9. \tFeeding Men\r\nCamping And Camp Sanitation.\r\n\r\nChapter\
+  \ 10. \tPersonal Hygiene\r\n\r\nChapter 11. \tSignaling\r\n\r\nChapter 12. \tGuard\
+  \ Duty\r\n\r\nChapter 13. \tCompany Administration\r\n\r\nChapter 14. \tConferences\r\
+  \n  \tStudy.\r\n  \tSmall Problems in Infantry.\r\n  \tExaminations.\r\n\r\nChapter\
+  \ 15. \tTrench Warfare\r\n  \t1. General Principles.\r\n  \t2. Siting Trenches.\r\
+  \n  \t3. Construction.\r\n  \t4. Occupation."
+title: Military Instructors Manual
+url: http://www.gutenberg.org/ebooks/14625
